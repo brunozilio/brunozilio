@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Invillia](invillia.com)
+- 🔭 I’m currently working on [Invillia](https://invillia.com)
 
 - 💬 Ask me about **NextJS, Express, AWS, Serverless Framework**
 
