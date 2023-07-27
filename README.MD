@@ -14,7 +14,7 @@
   <a href="https://www.twitch.tv/brunozilio" target="blank">
     <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="brunozilio" />
   </a>
-  <a href="https://www.linkedin.com/in/brunozilio" target="blank">
+  <a href="https://www.linkedin.com/in/bruno-zanon-zilio" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunozilio" />
   </a>
 </p>
