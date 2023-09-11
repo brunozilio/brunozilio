@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Nuclea](https://invillia.com)
+- 🔭 I’m currently working on [Nuclea](https://br.linkedin.com/company/nucleabr)
 
 - 💬 Ask me about **Angular, AWS, Node.JS, Dotnet, RabbitMQ, MongoDB, Mysql **
 
