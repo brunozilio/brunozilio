@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nuclea](https://br.linkedin.com/company/nucleabr)
 
-- 💬 Ask me about **Angular, AWS, Node.JS, Dotnet, RabbitMQ, MongoDB, Mysql **
+- 💬 Ask me about **Angular, AWS, Node.JS, Dotnet, RabbitMQ, MongoDB, Mysql**
 
 - 📫 How to reach me **brunozilioweb@gmail.com**
 
